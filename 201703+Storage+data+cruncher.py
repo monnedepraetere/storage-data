@@ -5,6 +5,7 @@
 
 # crunching data from DOE Global Energy Storage Database
 # http://www.energystorageexchange.org/projects
+# comment update
 
 get_ipython().magic('matplotlib inline')
 import pandas as pd
